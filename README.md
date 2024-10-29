@@ -1,6 +1,5 @@
 # DIVAR_SCRAPER_SAMPLE
-This is a few-day-coded just to illustrate the python coding
-This is a very simple scraper that downloads the Divar apartments ad details and save them in a CSV file
+This is a simple, quick-coded Python scraper designed to download apartment ad details from Divar and save them in a CSV file.
 
 - I deliberately have not uploaded data set... sorry! cuz I donno is it legal or not.
-- Code is not clear and need a lot of comment. I will add them in the future.
+-I know! Code needs a lot of comment. Maybe add them in the future.
